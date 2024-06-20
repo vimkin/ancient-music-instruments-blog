@@ -1,0 +1,19 @@
+# Hugo
+/public/
+/resources/
+/go.mod
+/go.sum
+
+# generated files
+*.html
+*.css
+*.js
+
+# backup files
+*~
+
+# system
+.DS_Store
+
+# IDE
+.vscode/
